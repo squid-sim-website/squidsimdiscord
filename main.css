@@ -15,7 +15,7 @@ header {
   align-items: center;
   text-align: center;
   min-height: 100vh;
-  background-image: url("background.jpg");
+  background-image: url("https://raw.githubusercontent.com/squid-sim-website/squid-sim-website/main/background.png");
   background-size: cover;
   background-position: center;
   position: relative;
