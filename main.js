@@ -1,5 +1,5 @@
 // Setup End Date for Countdown (getTime == Time in Milleseconds)
-let launchDate = new Date("June 1, 2023 5:00:00").getTime();
+let launchDate = new Date("June 1, 2023 5:00:00 PM").getTime();
 
 // Setup Timer to tick every 1 second
 let timer = setInterval(tick, 1000);
